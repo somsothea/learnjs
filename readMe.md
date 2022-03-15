@@ -62,6 +62,7 @@
 🇦🇿 [Azerbaijan](./Azerbaijani/readMe.md)
 KR [Korean](./Korea/README.md)
 🇻🇳 [Vietnamese](./Vietnamese/README.md)
+ᴢʜ [Chinese](./ZH/README.md)
 
 </div>
 
